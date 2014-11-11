@@ -166,7 +166,7 @@ be part of the development team._
 
 ### License
 
-Frostwire Desktop is offered under the [GNU General Public License](http://www.gnu.org/copyleft/gpl.html). Available [here](License.txt).
+Frostwire Desktop is offered under the [GNU General Public License](http://www.gnu.org/copyleft/gpl.html). Available [here](LICENSE.txt).
 
 ### Official FrostWire sites
 
