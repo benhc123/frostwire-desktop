@@ -164,6 +164,11 @@ _Repeat and rinse, if you send enough patches to demonstrate you have a good
 coding skills, we'll just give you commit access on the real repo and you will
 be part of the development team._
 
+### License
+
+Frostwire Desktop is offered under the [GNU General Public License](http://www.gnu.org/copyleft/gpl.html). Available [here](LICENSE.txt).
+
+
 ### Official FrostWire sites
 
 [Main Website Frostwire.com](http://www.frostwire.com) | [Frostwire Forum](http://forum.frostwire.com) | [Facebook](http://www.facebook.com/FrostWireOfficial) | [Twitter @frostwire](https://twitter.com/frostwire) | [Tumblr](http://tumblr.frostwire.com)
