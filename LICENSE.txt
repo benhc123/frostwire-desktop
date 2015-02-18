@@ -1,3 +1,7 @@
+frostwire-desktop is made available under the following license
+
+-------------------------------------------------------------------
+
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
